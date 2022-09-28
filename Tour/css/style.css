@@ -60,6 +60,7 @@
         border-right: 1px solid white;
         box-sizing: border-box;
     }
+    header .gnb > a:hover {  color: #9eafbd;}
     header .gnb > a:nth-child(1) {border-left: 1px solid white}
 
     /* 메인 설정 */
